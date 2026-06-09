@@ -1,0 +1,15 @@
+/vendor
+.env
+/runtime
+*.log
+/.idea
+/.vscode
+*.swp
+*.bak
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+/.settings
+/.buildpath
+/.project
