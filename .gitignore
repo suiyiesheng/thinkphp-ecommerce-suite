@@ -7,7 +7,6 @@
 *.swp
 *.bak
 composer.phar
-composer.lock
 .DS_Store
 Thumbs.db
 /.settings
