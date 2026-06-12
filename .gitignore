@@ -12,3 +12,4 @@ Thumbs.db
 /.settings
 /.buildpath
 /.project
+composer.lock
